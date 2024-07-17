@@ -1,0 +1,224 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fb {
+    height: 90%;
+    width: 20%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home {
+    height: 90%;
+    width: 45%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.acc {
+    height: 90%;
+    width: 20%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pfp {
+    height: 90%;
+    width: 20%;
+    background-color: rgb(230, 230, 230);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search {
+    height: 90%;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.icons {
+    background-color: rgb(232, 232, 232);
+    height: 80%;
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icn {
+    background-color: rgb(232, 232, 232);
+    height: 80%;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.left {
+    height: 99%;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.middle {
+    height: 99%;
+    width: 45%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right {
+    height: 99%;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.menu1 {
+    height: 13%;
+    width: 88%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.pp {
+    height: 90%;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: rgb(232, 232, 232);
+    height: 95%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.pro {
+    background-color: rgb(252, 252, 252);
+    height: 10%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+/* .desc {
+    background-color: orange;
+    height: 10%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+.img {
+    background-color: rgb(255, 255, 255);
+    height: 90%;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.like {
+    background-color: rgb(255, 255, 255);
+    height: 10%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.vid {
+    height: 100%;
+    width: 100%;
+}
+
+.searc {
+    height: 90%;
+    width: 70%;
+    background-color: rgb(211, 211, 211);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.im {
+    height: 50%;
+    width: 45%;
+}
+
+.m {
+    height: 70%;
+    width: 70%;
+}
+
+.om {
+    height: 100%;
+    width: 100%;
+}
+
+.p {
+    height: 100%;
+    width: 10%;
+    border-radius: 60px;
+}
+
+.op {
+    height: 100%;
+    width: 100%;
+}

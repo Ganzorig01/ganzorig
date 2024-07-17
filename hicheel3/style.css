@@ -1,0 +1,102 @@
+header {
+    text-align: center;
+    background-color: rgb(46, 46, 46);
+    height: 100px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.hiih1 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.davaa {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih2 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+}
+
+.mygmar {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih3 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.lhagva {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih4 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.purev {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih5 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.baasan {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih6 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.hagasain {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.hiih7 {
+    background-color: rgb(212, 212, 212);
+    width: 40%;
+    border: 10px;
+}
+
+.butensain {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

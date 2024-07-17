@@ -1,0 +1,13 @@
+body {
+    background: rgb(0, 255, 253);
+    background: radial-gradient(circle, rgba(0, 255, 253, 1) 31%, rgba(158, 254, 255, 1) 67%, rgba(238, 253, 255, 1) 100%);
+}
+
+header {
+    text-align: center;
+    background-color: blue;
+}
+
+a {
+    color: white;
+}
