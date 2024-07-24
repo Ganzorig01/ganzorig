@@ -311,7 +311,28 @@
         margin: 10px;
         display: flex;
         flex-direction: column;
+        visibility: visible;
 
+    }
+
+    .menulogo2 {
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        visibility: visible;
+    }
+
+    .menulogo1 {
+        background-color: white;
+        height: 10%;
+        width: 50%;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        visibility: hidden;
     }
 
     .left {
