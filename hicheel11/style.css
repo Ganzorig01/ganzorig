@@ -153,7 +153,7 @@ ul {
     left: 51%;
     right: 51%;
     bottom: 0;
-    background: #11C86D;
+    background: white;
     height: 4px;
     -webkit-transition-property: left, right;
     transition-property: left, right;
