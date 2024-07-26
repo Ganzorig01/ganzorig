@@ -1,19 +1,47 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .n {
     background-color: black;
     color: white;
     width: 20%;
 }
 
+#home {
+    display: flex;
+    align-items: center;
+}
+
+.texts {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    color: #11C86D;
+    font-size: 45px;
+    font-weight: 600;
+    display: flex;
+}
+
+.name p {
+    color: #333;
+    margin: 0;
+    margin-left: 20px;
+}
+
 header {
-    background-color: grey;
-    font-size: 200%;
     height: 6vh;
+    display: flex;
+    font-size: 200%;
     width: 100%;
     position: fixed;
-    display: flex;
-    justify-content: center;
+    justify-content: end;
     gap: 30px;
-    border: 10px;
+    left: 0;
+    z-index: 1;
+    background-color: rgba(250, 250, 250, 0.8);
 }
 
 a {
@@ -38,6 +66,7 @@ a {
 }
 
 body {
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
 
