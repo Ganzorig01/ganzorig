@@ -94,6 +94,12 @@ body {
 .mid {
     background-color: white;
     height: 150vh;
+    padding: 180px;
+    padding-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 .bottom {
@@ -118,6 +124,13 @@ body {
 .boxes2 {
     width: 30%;
     height: 100%;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
 }
 
 h1 {
@@ -125,4 +138,38 @@ h1 {
     margin-bottom: 10px;
     margin-left: 10px;
     margin-top: 10px;
+}
+
+.icon {
+    height: 81px;
+    width: 81px;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    gap: 50px;
+}
+
+.learn {
+    color: #4C5FD5;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+
+}
+
+p {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.logo1 {
+    height: 10vh;
 }
