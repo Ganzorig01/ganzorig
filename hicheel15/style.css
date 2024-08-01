@@ -173,3 +173,15 @@ h1 {
 .logo1 {
     height: 10vh;
 }
+.help1{
+    background-color: #4C5FD5;
+    position: fixed;
+    height: 50px;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 30px;
+}
