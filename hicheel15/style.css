@@ -82,6 +82,9 @@ body {
     flex-direction: row;
     border-radius: 5px;
     gap: 600px;
+    box-shadow: -1px 13px 144px -6px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 13px 144px -6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 13px 144px -6px rgba(0, 0, 0, 0.75);
 }
 
 .se {
@@ -172,4 +175,25 @@ h1 {
 
 .logo1 {
     height: 10vh;
+}
+
+.hover {
+    color: white;
+}
+
+.hover:hover {
+    text-decoration: underline;
+}
+
+.sign2:hover {
+    background-color: white;
+    color: black;
+}
+
+.learn:hover {
+    text-decoration: underline;
+}
+
+.texthov:hover {
+    text-decoration: underline;
 }
